@@ -6,11 +6,11 @@ def version_name = "0.0.1"
 setVersion(version_name)
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 30
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 26
+        targetSdkVersion 30
         versionCode 1
         versionName version_name
 
